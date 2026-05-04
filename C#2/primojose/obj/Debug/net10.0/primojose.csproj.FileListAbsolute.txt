@@ -1,0 +1,14 @@
+C:\Users\karid\OneDrive\Desktop\C#\primojose\bin\Debug\net10.0\primojose.exe
+C:\Users\karid\OneDrive\Desktop\C#\primojose\bin\Debug\net10.0\primojose.deps.json
+C:\Users\karid\OneDrive\Desktop\C#\primojose\bin\Debug\net10.0\primojose.runtimeconfig.json
+C:\Users\karid\OneDrive\Desktop\C#\primojose\bin\Debug\net10.0\primojose.dll
+C:\Users\karid\OneDrive\Desktop\C#\primojose\bin\Debug\net10.0\primojose.pdb
+C:\Users\karid\OneDrive\Desktop\C#\primojose\obj\Debug\net10.0\primojose.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karid\OneDrive\Desktop\C#\primojose\obj\Debug\net10.0\primojose.AssemblyInfoInputs.cache
+C:\Users\karid\OneDrive\Desktop\C#\primojose\obj\Debug\net10.0\primojose.AssemblyInfo.cs
+C:\Users\karid\OneDrive\Desktop\C#\primojose\obj\Debug\net10.0\primojose.csproj.CoreCompileInputs.cache
+C:\Users\karid\OneDrive\Desktop\C#\primojose\obj\Debug\net10.0\primojose.dll
+C:\Users\karid\OneDrive\Desktop\C#\primojose\obj\Debug\net10.0\refint\primojose.dll
+C:\Users\karid\OneDrive\Desktop\C#\primojose\obj\Debug\net10.0\primojose.pdb
+C:\Users\karid\OneDrive\Desktop\C#\primojose\obj\Debug\net10.0\primojose.genruntimeconfig.cache
+C:\Users\karid\OneDrive\Desktop\C#\primojose\obj\Debug\net10.0\ref\primojose.dll

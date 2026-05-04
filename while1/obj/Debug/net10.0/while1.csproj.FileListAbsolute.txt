@@ -1,0 +1,14 @@
+C:\Users\karid\OneDrive\Desktop\C#\while1\bin\Debug\net10.0\while1.exe
+C:\Users\karid\OneDrive\Desktop\C#\while1\bin\Debug\net10.0\while1.deps.json
+C:\Users\karid\OneDrive\Desktop\C#\while1\bin\Debug\net10.0\while1.runtimeconfig.json
+C:\Users\karid\OneDrive\Desktop\C#\while1\bin\Debug\net10.0\while1.dll
+C:\Users\karid\OneDrive\Desktop\C#\while1\bin\Debug\net10.0\while1.pdb
+C:\Users\karid\OneDrive\Desktop\C#\while1\obj\Debug\net10.0\while1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karid\OneDrive\Desktop\C#\while1\obj\Debug\net10.0\while1.AssemblyInfoInputs.cache
+C:\Users\karid\OneDrive\Desktop\C#\while1\obj\Debug\net10.0\while1.AssemblyInfo.cs
+C:\Users\karid\OneDrive\Desktop\C#\while1\obj\Debug\net10.0\while1.csproj.CoreCompileInputs.cache
+C:\Users\karid\OneDrive\Desktop\C#\while1\obj\Debug\net10.0\while1.dll
+C:\Users\karid\OneDrive\Desktop\C#\while1\obj\Debug\net10.0\refint\while1.dll
+C:\Users\karid\OneDrive\Desktop\C#\while1\obj\Debug\net10.0\while1.pdb
+C:\Users\karid\OneDrive\Desktop\C#\while1\obj\Debug\net10.0\while1.genruntimeconfig.cache
+C:\Users\karid\OneDrive\Desktop\C#\while1\obj\Debug\net10.0\ref\while1.dll

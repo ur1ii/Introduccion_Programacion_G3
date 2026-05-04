@@ -1,0 +1,14 @@
+C:\Users\karid\OneDrive\Desktop\C#\numeroprimo\bin\Debug\net10.0\numeroprimo.exe
+C:\Users\karid\OneDrive\Desktop\C#\numeroprimo\bin\Debug\net10.0\numeroprimo.deps.json
+C:\Users\karid\OneDrive\Desktop\C#\numeroprimo\bin\Debug\net10.0\numeroprimo.runtimeconfig.json
+C:\Users\karid\OneDrive\Desktop\C#\numeroprimo\bin\Debug\net10.0\numeroprimo.dll
+C:\Users\karid\OneDrive\Desktop\C#\numeroprimo\bin\Debug\net10.0\numeroprimo.pdb
+C:\Users\karid\OneDrive\Desktop\C#\numeroprimo\obj\Debug\net10.0\numeroprimo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karid\OneDrive\Desktop\C#\numeroprimo\obj\Debug\net10.0\numeroprimo.AssemblyInfoInputs.cache
+C:\Users\karid\OneDrive\Desktop\C#\numeroprimo\obj\Debug\net10.0\numeroprimo.AssemblyInfo.cs
+C:\Users\karid\OneDrive\Desktop\C#\numeroprimo\obj\Debug\net10.0\numeroprimo.csproj.CoreCompileInputs.cache
+C:\Users\karid\OneDrive\Desktop\C#\numeroprimo\obj\Debug\net10.0\numeroprimo.dll
+C:\Users\karid\OneDrive\Desktop\C#\numeroprimo\obj\Debug\net10.0\refint\numeroprimo.dll
+C:\Users\karid\OneDrive\Desktop\C#\numeroprimo\obj\Debug\net10.0\numeroprimo.pdb
+C:\Users\karid\OneDrive\Desktop\C#\numeroprimo\obj\Debug\net10.0\numeroprimo.genruntimeconfig.cache
+C:\Users\karid\OneDrive\Desktop\C#\numeroprimo\obj\Debug\net10.0\ref\numeroprimo.dll
