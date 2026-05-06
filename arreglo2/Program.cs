@@ -58,7 +58,12 @@ foreach(int nota in notas)
 {
   
 }
+Console.ForegroundColor = ConsoleColor.Magenta;
+Console.WriteLine("=== NOTAS INGRESADAS ===");
+Console.ResetColor();
+Console.ForegroundColor = ConsoleColor.Blue;
 Console.WriteLine("La suma de las notas es: " + suma);
+Console.ResetColor();
 promedio = suma / notas.Length;
 Console.ForegroundColor = ConsoleColor.Blue;
 Console.WriteLine("El promedio de notas es: " + promedio);
