@@ -1,0 +1,15 @@
+C:\Users\karid\OneDrive\Desktop\GithubT\vectores1\obj\Debug\net10.0\vectores1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karid\OneDrive\Desktop\GithubT\vectores1\obj\Debug\net10.0\vectores1.AssemblyInfoInputs.cache
+C:\Users\karid\OneDrive\Desktop\GithubT\vectores1\obj\Debug\net10.0\vectores1.AssemblyInfo.cs
+C:\Users\karid\OneDrive\Desktop\GithubT\vectores1\obj\Debug\net10.0\vectores1.csproj.CoreCompileInputs.cache
+C:\Users\karid\OneDrive\Desktop\GithubT\vectores1\obj\Debug\net10.0\vectores1.sourcelink.json
+C:\Users\karid\OneDrive\Desktop\GithubT\vectores1\bin\Debug\net10.0\vectores1.exe
+C:\Users\karid\OneDrive\Desktop\GithubT\vectores1\bin\Debug\net10.0\vectores1.deps.json
+C:\Users\karid\OneDrive\Desktop\GithubT\vectores1\bin\Debug\net10.0\vectores1.runtimeconfig.json
+C:\Users\karid\OneDrive\Desktop\GithubT\vectores1\bin\Debug\net10.0\vectores1.dll
+C:\Users\karid\OneDrive\Desktop\GithubT\vectores1\bin\Debug\net10.0\vectores1.pdb
+C:\Users\karid\OneDrive\Desktop\GithubT\vectores1\obj\Debug\net10.0\vectores1.dll
+C:\Users\karid\OneDrive\Desktop\GithubT\vectores1\obj\Debug\net10.0\refint\vectores1.dll
+C:\Users\karid\OneDrive\Desktop\GithubT\vectores1\obj\Debug\net10.0\vectores1.pdb
+C:\Users\karid\OneDrive\Desktop\GithubT\vectores1\obj\Debug\net10.0\vectores1.genruntimeconfig.cache
+C:\Users\karid\OneDrive\Desktop\GithubT\vectores1\obj\Debug\net10.0\ref\vectores1.dll
