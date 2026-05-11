@@ -1,20 +1,14 @@
-﻿int[] vector = new int[5];
-int[] vectorC = new int[5];
-int[] vectorS = new int[5];
+﻿double[] vector = { 3, 4, 5, 6 ,7};
+double sumaC =0;
 
-Console.WriteLine("Ingrese los valores del vector");
+Console.Clear();
+
 for(int i=0; i<vector.Length; i++)
 {
-    try
-    {
-        Console.ReadLine($"Valor {i+1}: ");
-        vector[i] = int.Parse(Console.ReadLine());
-    }
-    catch(FormatException)
-    {
-        Console.WriteLine("ERROR. dato invalido, Reingrese los datos");
-    }
-    vectorC[i] = vector[i] * vector[i];
-    vectorS[i] = vectorC[i] + vectorC[i];
+    sumaC += Math.Pow(vector[i], 2);
 
 }
+   double magnitud = Math.Sqrt(sumaC);
+   Console.ForegroundColor = ConsoleColor.Green;
+   Console.WriteLine("La magnitud total del vector de movimiento es: " +magnitud);
+   Console.ResetColor();
