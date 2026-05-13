@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\karid\\OneDrive\\Desktop\\GithubT\\ArregloU\\Ejercicio2\\Ejercicio2.csproj",
-      "projectName": "Ejercicio2",
-      "projectPath": "C:\\Users\\karid\\OneDrive\\Desktop\\GithubT\\ArregloU\\Ejercicio2\\Ejercicio2.csproj",
+      "projectUniqueName": "C:\\Users\\karid\\OneDrive\\Desktop\\GithubT\\Matriz2\\Matriz2.csproj",
+      "projectName": "Matriz2",
+      "projectPath": "C:\\Users\\karid\\OneDrive\\Desktop\\GithubT\\Matriz2\\Matriz2.csproj",
       "packagesPath": "C:\\Users\\karid\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\karid\\OneDrive\\Desktop\\GithubT\\ArregloU\\Ejercicio2\\obj\\",
+      "outputPath": "C:\\Users\\karid\\OneDrive\\Desktop\\GithubT\\Matriz2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\karid\\AppData\\Roaming\\NuGet\\NuGet.Config"
