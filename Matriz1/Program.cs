@@ -26,22 +26,25 @@ for (int f = 0; f < 3; f++)
         if(matriz[f,c] % 2 == 0 && matriz[f, c] >0)
         {
             Console.ForegroundColor = ConsoleColor.Green;
-            Console.Write($"{matriz[f, c]} ");
+            Console.Write(matriz[f, c] + "\t");
             Console.ResetColor();
         }
         else if(matriz[f,c] % 2 != 0 && matriz[f, c] >0)
         {
             Console.ForegroundColor = ConsoleColor.Red;
-            Console.Write($"{matriz[f, c]} ");
+            Console.Write(matriz[f, c] + "\t");
             Console.ResetColor();
         }
         else if(matriz[f,c] <0)
         {
             Console.ForegroundColor = ConsoleColor.Yellow;
-            Console.Write($"{matriz[f, c]} ");
+            Console.Write(matriz[f, c] + "\t");
             Console.ResetColor();
         }
         
     }
     Console.WriteLine();
 }
+Console.ResetColor();
+Console.WriteLine("\nPresione cualquier tecla para salir...");
+Console.ReadKey();
